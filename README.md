@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 Email: tariyalayush13@gmail.com
 GitHub: https://github.com/ayush-tariyal
+LinkedIn: https://www.linkedin.com/in/ayushtariyal/
 <!---
 ayush-tariyal/ayush-tariyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
